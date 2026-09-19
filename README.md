@@ -1,7 +1,7 @@
 # University Regulation RAG Assistant
 
 > 🌐 **Live Public Deployment (Netlify)**: [https://unirag-assistant-5769.netlify.app](https://unirag-assistant-5769.netlify.app)
-> ⚙️ **Netlify Site Admin**: [https://app.netlify.com/sites/unirag-assistant-5769/overview](https://app.netlify.com/sites/unirag-assistant-5769/overview)
+
 
 A production-grade Retrieval-Augmented Generation (RAG) assistant specifically built to answer student and faculty questions using **ONLY** uploaded university documents, including:
 - University & Academic Regulations
